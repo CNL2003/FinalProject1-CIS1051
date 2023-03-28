@@ -3,11 +3,14 @@
 ## What idea(s) do you have for your final project?
 
 computational neuroscience : 
-      - code that simulates an action potential 
+code that simulates an action potential 
 
 A integral calculating machine
+
 A website that allows you to input a trigonometric graph and outputs that graph 
+
 A game where you have to dodge something 
+
 A website that writes an essay for you based on a topic 
 
 
