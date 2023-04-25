@@ -10,7 +10,7 @@ Chong Li
 
 #### Project title
 
-Utilizing Nilearnto Analyze fMRI Images and Create Predictive Treatment Models 
+Artifcial Intelligence Used to Improve Patient Care and Treatment 
 
 ***
 
