@@ -5,6 +5,10 @@ Title: fMRI Analysis Using Nilearn
 Name: Caedyn Lipovsky
 Year: Sophomore
 
+Youtube Video URL: 
+https://www.youtube.com/watch?v=Navkcr5mJmk
+
+
 Introduction: 
 
 This project was a very long and difficult process for me. With most projects, I start off overly ambitious, and this project was no different. I thought I could learn machine learning in a month as a intro to python student. 
